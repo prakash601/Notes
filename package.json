@@ -1,0 +1,19 @@
+{
+  "name": "passport_login-system",
+  "version": "1.0.0",
+  "description": "a login system",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Prakash Sankhla",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
